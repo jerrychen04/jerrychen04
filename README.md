@@ -2,7 +2,7 @@
 
 I'm a software developer that wants to build cool things
 - 🌱 I’m currently learning **C++**
-- 📫 How to reach me **jerry.chen.contact@gmail.com**
+- 📫 Reach me at **jerry.chen.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
