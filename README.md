@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Jerry Chen</h1>
-<h3 align="center">I'm a software developer that wants to build cool things</h3>
+<h2 align="center">I'm a software developer that wants to build cool things</h2>
 
 - 🌱 I’m currently learning **C++**
 
