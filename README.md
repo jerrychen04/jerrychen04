@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋, I'm Jerry Chen</h1>
+<h1 align="left">Hey there! 👋, I'm Jerry Chen</h1>
 
 I'm a software developer that wants to build cool things
 - 🌱 I’m currently learning **C++**
