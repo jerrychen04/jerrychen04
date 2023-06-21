@@ -1,6 +1,6 @@
 <h1 align="left">Hey there! I'm Jerry Chen</h1>
 
-I'm a student studying Computer Science that builds cool projects!
+I'm a student and software engineer that builds cool projects!
 - 🌱 Currently learning **C++**
 - 📫 Reach me at **jerry.chen.contact@gmail.com**
 
