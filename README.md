@@ -1,7 +1,7 @@
-<h1 align="left">Hey there! 👋, I'm Jerry Chen</h1>
+<h1 align="left">Hey there! I'm Jerry Chen</h1>
 
-I'm a software developer that wants to build cool things
-- 🌱 I’m currently learning **C++**
+I'm a student studying Computer Science that builds cool projects!
+- 🌱 Currently learning **C++**
 - 📫 Reach me at **jerry.chen.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
