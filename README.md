@@ -2,7 +2,7 @@
 
 I'm a student and software engineer that builds cool projects!
 - 🌱 Currently learning **C++**
-- 📫 Reach me at **jerry.chen.contact@gmail.com**
+- 📫 Reach me at **jwc279[at]cornell[dot]edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
